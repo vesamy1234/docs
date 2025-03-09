@@ -13,7 +13,7 @@ author = 'Ve Samy'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['sphinx_rtd_theme', 'sphinx_copybutton',  'sphinx_new_tab_link', 'sphinxemoji.sphinxemoji','sphinx_favicon']
+extensions = ['sphinx_rtd_theme', 'sphinx_copybutton',  'sphinx_new_tab_link','sphinx_favicon']
 
 templates_path = ['_templates']
 exclude_patterns = []
